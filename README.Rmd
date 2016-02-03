@@ -1,0 +1,16 @@
+---
+title: "README"
+author: "equinaut"
+date: "February 2, 2016"
+output: html_document
+---
+
+This is to fulfill the requirements of Coursera's Exploratory Data Analysis Project 1. To run the scripts, conduct the following steps:
+
+1. Download and unzip the data set from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip into your working directory.
+
+2. Run the code in plot1.R
+
+3. The data set in your R environment will be referenced in all proceeding plot files.
+
+If needbe, copy and paste the code into your R terminal such that the data set gets properly referenced.
