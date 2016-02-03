@@ -1,3 +1,5 @@
+source('load_data.R')
+
 png('plot3.png', bg = "transparent")
 
 plot(dat$DateTime, dat$Sub_metering_1, 

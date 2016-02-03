@@ -1,3 +1,5 @@
+source('load_data.R')
+
 png('plot4.png', bg = "transparent")
 
 par(mfrow=c(2, 2))

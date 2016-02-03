@@ -1,3 +1,5 @@
+source('load_data.R')
+
 png('plot2.png', bg = "transparent")
 
 plot(dat$DateTime, dat$Global_active_power, 
